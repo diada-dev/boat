@@ -1,0 +1,8 @@
+DEV
+1000
+Gadget H.
+512
+Chip
+500
+Dale
+500
